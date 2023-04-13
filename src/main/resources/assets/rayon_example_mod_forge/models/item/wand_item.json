@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rayon_example_mod_forge:item/wand_item"
+  }
+}
